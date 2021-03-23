@@ -1,0 +1,16 @@
+.user-info {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: #fafafa;
+    border: 1px solid silver;
+    padding: 20px 3%;
+    width: 94%;
+}
+
+.user h1 {
+    margin-right: 30px;
+}
+
+.user p {
+    font-size: 18px;
+}
